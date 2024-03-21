@@ -1,4 +1,4 @@
-# Sentiment Analysis model for movie reviews using ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)![RNN](https://img.shields.io/badge/RNN-%23FF6F00.svg?style=for-the-badge&logo=deeplearning.ai&logoColor=white)![LSTM](https://img.shields.io/badge/LSTM-%23000000.svg?style=for-the-badge&logo=deeplearning.ai&logoColor=white)
+# Sentiment Analysis model for movie reviews using ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![RNN](https://img.shields.io/badge/RNN-%23FF6F00.svg?style=for-the-badge&logo=deeplearning.ai&logoColor=white) ![LSTM](https://img.shields.io/badge/LSTM-%23000000.svg?style=for-the-badge&logo=deeplearning.ai&logoColor=white)
 
 
 ## Table of Contents
