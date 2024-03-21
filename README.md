@@ -26,8 +26,11 @@ The project appears to be focused on sentiment analysis using deep learning tech
 These Techniques aim to push the model's accuracy even further, targeting a goal of around 85%.
 
 ## Libraries and Dependencies
-Install the required dependencies with: 'pip install -r requirements.txt --upgrade.'
+To install the required dependencies, run the following command:
 
+```bash
+pip install -r requirements.txt --upgrade
+```
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TorchText](https://img.shields.io/badge/TorchText-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
